@@ -1,10 +1,9 @@
 package main
 
 import (
-	"./handlers"
+	"video_converter_go/handlers"
 	"log"
 	"net/http"
-	"os"
 )
 
 
